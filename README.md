@@ -96,6 +96,9 @@ Trong SQL Server, các hàm có sẵn được thiết kế để thực hiện 
 + FORMAT(value, format, culture): Hàm này giúp định dạng dữ liệu hiển thị cực kỳ thẩm mỹ. Em dùng nó để định dạng giá tiền thành chuẩn tiền tệ Việt Nam (VNĐ) có dấu chấm phân cách hàng nghìn, và định dạng lại ngày tháng theo chuẩn Việt Nam (dd/MM/yyyy).
 
 + UPPER(string): Hàm chuyển chuỗi thành CHỮ IN HOA. Rất phù hợp để in chuẩn hóa tên Khách hàng trên các hóa đơn thanh toán.
+  
+*Nhập dữ liệu*
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28e3c81c-16dc-4097-9e41-d65906c94c69" />
 
 
