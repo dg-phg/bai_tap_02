@@ -197,6 +197,5 @@ SELECT * FROM dbo.fn_LichSuDatPhongCuaKhach(1);
 *Ảnh 5: Kết quả truy vấn hàm Inline Table-Valued để lấy lịch sử của Khách hàng có mã là 1.*
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8dd1e2cb-d953-4b79-a3fe-19953367db69" />
 
-```
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2508bc8c-a05e-4c35-9164-f003da3d0511" />
